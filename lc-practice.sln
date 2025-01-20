@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesSortedArrayII", "RemoveDuplicatesSortedArrayII\RemoveDuplicatesSortedArrayII.csproj", "{F8E8F314-C277-4890-8DFE-63F1DB3D0CCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{6EFBA371-54E6-4C04-8BCB-8B7AE4D47D27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F8E8F314-C277-4890-8DFE-63F1DB3D0CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E8F314-C277-4890-8DFE-63F1DB3D0CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E8F314-C277-4890-8DFE-63F1DB3D0CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFBA371-54E6-4C04-8BCB-8B7AE4D47D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFBA371-54E6-4C04-8BCB-8B7AE4D47D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFBA371-54E6-4C04-8BCB-8B7AE4D47D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFBA371-54E6-4C04-8BCB-8B7AE4D47D27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
